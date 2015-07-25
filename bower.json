@@ -1,0 +1,30 @@
+{
+  "name": "angular-8tracks",
+  "version": "1.0.0",
+  "authors": [
+    "Maxime Roussin-Belanger <maxime.roussinbelanger@gmail.com>"
+  ],
+  "description": "Angular Service to connect with 8tracks Web API",
+  "main": "./dist/angular-8tracks.min.js",
+  "keywords": [
+    "8tracks",
+    "angular",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Lorac/angular-8tracks",
+  "dependencies": {
+    "angular": "~1.2"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.2",
+    "angular-scenario": "~1.2"
+  }
+}
