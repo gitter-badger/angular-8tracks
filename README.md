@@ -1,5 +1,7 @@
 # angular-8track
 ================
+
+[![Join the chat at https://gitter.im/Lorac/angular-8tracks](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Lorac/angular-8tracks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/Lorac/angular-8tracks.svg?branch=master)](https://travis-ci.org/Lorac/angular-8tracks) 
 [![codecov.io](http://codecov.io/github/Lorac/angular-8tracks/coverage.svg?branch=master)](http://codecov.io/github/Lorac/angular-8tracks?branch=master) 
 [![Coverage Status](https://img.shields.io/coveralls/Lorac/angular-8tracks.svg)](https://coveralls.io/r/Lorac/angular-8tracks) 
